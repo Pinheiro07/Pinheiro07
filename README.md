@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando C#
-- 👯 Estou colaborando na Coutertop Stores Association
+- 👯 Estou colaborando na New Tecnologia da Informação Ltda
 - 😄 Pronouns: ele/dele
 
 <div align="center">
