@@ -20,34 +20,6 @@
 ### ☎️ Comunicação & VoIP
 - 📡 Asterisk  
 
----
-
-## 🛠️ O que eu desenvolvo
-
-- 🌍 Sites institucionais e comerciais
-- 📱 Aplicativos mobile multiplataforma
-- 🔗 APIs e integrações entre sistemas
-- ☎️ Soluções de comunicação com Asterisk
-- ⚙️ Projetos backend e automações
-
----
-
-## 📈 Atualmente focado em
-
-- Estruturação de projetos escaláveis
-- Boas práticas de desenvolvimento
-- Integração entre sistemas e redes
-- Evolução como desenvolvedor Full Stack
-
----
-
-## 🎯 Objetivo
-
-Construir soluções eficientes, bem estruturadas e que gerem impacto real.  
-Sempre aprendendo, evoluindo e criando novos projetos.
-
----
-
 ## 📫 Contato
 
 
