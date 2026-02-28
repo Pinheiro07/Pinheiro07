@@ -1,9 +1,57 @@
-### Opa! Eu sou o Lucas Pinheiro!
+# 👋 Olá, eu sou Desenvolvedor em constante evolução
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando C#
-- 👯 Estou colaborando na New Tecnologia da Informação Ltda
-- 😄 Pronouns: ele/dele
+💻 Apaixonado por tecnologia, desenvolvimento de software e sistemas de comunicação.  
+🚀 Focado em desenvolvimento Web, Mobile e soluções backend.  
+📚 Atualmente estudando Python e aprofundando conhecimentos em arquitetura e boas práticas.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### 👨‍💻 Linguagens
+- 🐍 Python  
+- ☕ Java  
+- 🌐 HTML  
+- 🎨 CSS  
+
+### 📱 Mobile
+- ⚛️ React Native  
+
+### ☎️ Comunicação & VoIP
+- 📡 Asterisk  
+
+---
+
+## 🛠️ O que eu desenvolvo
+
+- 🌍 Sites institucionais e comerciais
+- 📱 Aplicativos mobile multiplataforma
+- 🔗 APIs e integrações entre sistemas
+- ☎️ Soluções de comunicação com Asterisk
+- ⚙️ Projetos backend e automações
+
+---
+
+## 📈 Atualmente focado em
+
+- Estruturação de projetos escaláveis
+- Boas práticas de desenvolvimento
+- Integração entre sistemas e redes
+- Evolução como desenvolvedor Full Stack
+
+---
+
+## 🎯 Objetivo
+
+Construir soluções eficientes, bem estruturadas e que gerem impacto real.  
+Sempre aprendendo, evoluindo e criando novos projetos.
+
+---
+
+## 📫 Contato
+
+
+⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
 
 <div align="center">
   <a href="https://github.com/Pinheiro07">
